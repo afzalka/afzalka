@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Afzalazeez&color=green&style=flat">
 </p>
 
-- 🌱 A self driven passionate Software Engineer,pursued bachelor's degree in Computer Science and Engineering
+- 🌱 A self driven passionate Bigdata Engineer
 
 - 🏢 I’m currently working at Feathersoft
 
