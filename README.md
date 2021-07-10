@@ -10,7 +10,7 @@
 
 - 🏢 I’m currently working at Feathersoft
 
-- 👩 💻 All of my projects are available at [github](https://github.com/afzalka?tab=repositories)
+- 💻 All of my projects are available at [github](https://github.com/afzalka?tab=repositories)
  
 - 💬 Ask me about **DataScience,Machine learning and data analytics**
 
